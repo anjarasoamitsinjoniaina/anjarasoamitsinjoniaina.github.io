@@ -105,6 +105,7 @@ b, strong {
 
 .animated {
   position: relative;
+  margin-bottom: 50px;
 }
 
 .animated-info {
